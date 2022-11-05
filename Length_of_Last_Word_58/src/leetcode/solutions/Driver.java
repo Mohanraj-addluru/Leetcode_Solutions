@@ -1,0 +1,21 @@
+package leetcode.solutions;
+
+public class Driver {
+
+	public static void main(String[] args) 
+	{
+//		String TC = "Hello World";
+//		String TC = "   fly me   to   the moon  ";
+		String TC = "luffy is still joyboy";
+//		Test cases 
+		
+		
+		
+		Solution ans = new Solution();
+		int length = ans.lengthOfLastWord(TC);
+		System.out.println(length);
+		
+
+	}
+
+}
