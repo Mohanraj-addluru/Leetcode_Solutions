@@ -1,0 +1,16 @@
+package leetcode.solutions;
+
+public class Driver {
+
+	public static void main(String[] args) 
+	{
+		int[] nums = new int[1,1,2];
+		
+		Solution sol = new Solution();
+		sol.removeDuplicates()
+		
+		// TODO Auto-generated method stub
+
+	}
+
+}
